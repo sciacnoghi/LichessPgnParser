@@ -1,0 +1,258 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/abc123"]
+[Date "2016.02.01"]
+[Round "?"]
+[White "TestPlayer1"]
+[Black "TestPlayer2"]
+[Result "1-0"]
+[UTCDate "2016.02.01"]
+[UTCTime "14:30:25"]
+[WhiteElo "1500"]
+[BlackElo "1450"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-11"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. Qd2 Bb7 9. O-O-O Nbd7 10. h4 b4 11. Nd5 1-0
+
+[Event "Rated Classical game"
+[Site "https://lichess.org/def456"]
+[Date "2016.02.01"]
+[Round "?"]
+[White "BrokenPlayer"]
+[Black "TestPlayer3"]
+[Result "0-1"]
+[UTCDate "2016.02.01"]
+[UTCTime "15:45:30"]
+[WhiteElo "1600"]
+[BlackElo "1580"]
+[ECO "C54"]
+[Opening "Italian Game"]
+[TimeControl "1800+30"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O O-O 7. Re1 a6 8. Bb3 Ba7 9. h3 h6 10. Nbd2 Re8 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ghi789"]
+[Date "2016.02.01"]
+[Round "?"]
+[White "TestPlayer4"]
+[Black "TestPlayer5"]
+[Result "1/2-1/2"]
+[UTCDate "2016.02.01"]
+[UTCTime "16:20:15"]
+[WhiteElo "1750"]
+[BlackElo "1720"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense"]
+[TimeControl "180+2"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 d6 6. e4 exd5 7. cxd5 O-O 8. Bd2 Re8 9. Nge2 Nbd7 10. Ng3 Ne5 1/2-1/2
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/jkl012"]
+[Date "INVALID_DATE"]
+[Round "?"]
+[White "ErrorPlayer1"]
+[Black "ErrorPlayer2"]
+[Result "1-0"]
+[UTCDate "2016.02.01"]
+[UTCTime "25:70:90"]
+[WhiteElo "NOT_A_NUMBER"]
+[BlackElo "1500"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "600+10"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 dxc4 3. e3 Nf6 4. Bxc4 e6 5. Nf3 c5 6. O-O a6 7. Qe2 b5 8. Bb3 Bb7 9. Rd1 Nbd7 10. e4 cxd4 1-0
+
+Event "Missing brackets"
+Site "https://lichess.org/mno345"
+[Date "2016.02.01"]
+[Round "?"]
+[White "MalformedPlayer"]
+[Black "TestPlayer6"]
+[Result "0-1"]
+[UTCDate "2016.02.01"]
+[UTCTime "17:30:45"]
+[WhiteElo "1400"]
+[BlackElo "1420"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "900+15"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. e3 Bf5 5. Bd3 e6 6. Nf3 Be7 7. O-O O-O 8. c4 c6 9. Nc3 Nxc3 10. bxc3 dxc4 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/pqr678"]
+[Date "2016.02.01"]
+[Round "?"]
+[White "TestPlayer7"]
+[Black "TestPlayer8"]
+[Result "1-0"]
+[UTCDate "2016.02.01"]
+[UTCTime "18:15:20"]
+[WhiteElo "1650"]
+[BlackElo "1630"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "300+0"]
+[Termination "Normal"]
+
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Nxc3 8. bxc3 Be7 9. Qg4 O-O 10. Bh6 g6 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/stu901"]
+[Date "2016.02.01"]
+[Round "?"]
+[White "TestPlayer9"]
+[Black "TestPlayer10"]
+[Result "INVALID_RESULT"]
+[UTCDate "2016.02.01"]
+[UTCTime "19:00:10"]
+[WhiteElo "1800"]
+[BlackElo "1790"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "1200+20"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 O-O 8. O-O d6 9. h3 Bxd4 10. Bxd4 Nxd4 0-1
+
+[Event "Unfinished game with missing header"]
+[Site "https://lichess.org/vwx234"]
+[Round "?"]
+[White "IncompletePlayer"]
+[Black "TestPlayer11"]
+[Result "1-0"]
+[UTCDate "2016.02.01"]
+[UTCTime "20:30:55"]
+[WhiteElo "1550"]
+[BlackElo "1570"]
+[ECO "A00"]
+[Opening "Barnes Opening"]
+[TimeControl "450+5"]
+[Termination "Normal"]
+
+1. f3 e5 2. e4 Nf6 3. Bc4 Bc5 4. d3 d6 5. Bg5 h6 6. Bh4 g5 7. Bg3 Nh5 8. Ne2 Nxg3 9. hxg3 Qf6 10. Nbc3 Bg4
+
+[Event "Game with extra newlines"]
+[Site "https://lichess.org/yza567"]
+[Date "2016.02.01"]
+[Round "?"]
+[White "NewlinePlayer"]
+[Black "TestPlayer12"]
+[Result "0-1"]
+[UTCDate "2016.02.01"]
+[UTCTime "21:45:30"]
+[WhiteElo "1700"]
+[BlackElo "1680"]
+[ECO "B30"]
+[Opening "Sicilian Defense"]
+[TimeControl "600+5"]
+[Termination "Normal"]
+
+
+
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. O-O Bd7 5. Re1 a6 6. Bxc6 Bxc6 7. d3 g6 8. h3 Bg7 9. c3 Nf6 10. Nbd2 O-O 0-1
+
+[Event "Game with wrong encoding characters"]
+[Site "https://lichess.org/bcd890"]
+[Date "2016.02.01"]
+[Round "?"]
+[White "Tëst£layer™"]
+[Black "Üñîcødé¡"]
+[Result "1/2-1/2"]
+[UTCDate "2016.02.01"]
+[UTCTime "22:10:25"]
+[WhiteElo "1900"]
+[BlackElo "1850"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "300+3"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Nd2 e6 6. Ngf3 Be7 7. Bd3 O-O 8. h3 b6 9. O-O Bb7 10. Re1 Rc8 1/2-1/2
+
+[Event "Missing closing bracket"
+[Site "https://lichess.org/efg123"
+[Date "2016.02.01"
+[Round "?"
+[White "UnclosedPlayer"
+[Black "TestPlayer13"
+[Result "1-0"
+[UTCDate "2016.02.01"
+[UTCTime "23:20:40"
+[WhiteElo "1450"
+[BlackElo "1440"
+[ECO "A20"
+[Opening "English Opening"
+[TimeControl "180+1"
+[Termination "Normal"
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Bb4+ 4. Bd2 Bxd2+ 5. Qxd2 O-O 6. Nc3 Re8 7. Nf3 e4 8. Nd4 c5 9. Nb5 d6 10. O-O a6 1-0
+
+[Event "Game with quoted quotes"]
+[Site "https://lichess.org/hij456"]
+[Date "2016.02.01"]
+[Round "?"]
+[White "Player"With"Quotes"]
+[Black "Another"Quoted"Player"]
+[Result "0-1"]
+[UTCDate "2016.02.01"]
+[UTCTime "23:55:15"]
+[WhiteElo "1600"]
+[BlackElo "1620"]
+[ECO "C20"]
+[Opening "King's Pawn Game"]
+[TimeControl "900+10"]
+[Termination "Normal"]
+
+1. e4 e5 2. Qh5 Nc6 3. Bc4 g6 4. Qf3 f5 5. exf5 d6 6. fxg6 hxg6 7. h4 Bg4 8. Qb3 Nd4 9. Bxf7+ Ke7 10. Qc4 Bf5 0-1
+
+[Event]
+[Site "https://lichess.org/klm789"]
+[Date "2016.02.01"]
+[Round "?"]
+[White "EmptyEvent"]
+[Black "TestPlayer14"]
+[Result "1-0"]
+[UTCDate "2016.02.01"]
+[UTCTime "00:30:05"]
+[WhiteElo "1350"]
+[BlackElo "1300"]
+[ECO "B00"]
+[Opening "King's Pawn"]
+[TimeControl "240+2"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 f5 5. exf5 Bxf3 6. Qxf3 exf5 7. O-O Nf6 8. Re1+ Be7 9. Bg5 O-O 10. Nc3 c6 1-0
+
+[Event "Final corrupted game"]
+[Site "https://lichess.org/nop012"]
+[Date "2016.02.01"]
+[Round "?"]
+[White "LastPlayer"]
+[Black "FinalPlayer"]
+[Result "1/2-1/2"]
+[UTCDate "2016.02.01"]
+[UTCTime "01:15:50"]
+[WhiteElo "1750"]
+[BlackElo "1730"]
+[ECO ""]
+[Opening ""]
+[TimeControl ""]
+[Termination "Normal"]
+
+This game has no proper PGN delimiters and will cause parsing issues because it doesn't follow the standard format at all.
+
+[Event "Another broken game"]
