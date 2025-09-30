@@ -127,15 +127,6 @@ The parser implements robust error handling:
 - May not support all PGN format variations from other sources
 - Requires complete game records (cannot parse mid-game positions)
 
-## License
-
-This project is open source and available under the MIT License.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## Acknowledgments
-
 - Built for parsing data from [Lichess Open Database](https://database.lichess.org/)
 - PGN format specification: [Standard: Portable Game Notation](https://www.chessclub.com/help/PGN-spec)
